@@ -1,0 +1,182 @@
+[
+    {
+        "nombre": null,
+        "email": "me@junae.id",
+        "telefono": "+6282331472499",
+        "anios_experiencia": 6,
+        "formacion_ia": null,
+        "score_cv": 0.0,
+        "confianza": 0.0,
+        "metricas": {
+            "email_detectado": 1,
+            "telefono_detectado": 1,
+            "experiencia_detectada": 1
+        },
+        "metadata": {
+            "modelo_llm": "llama-3.1-8b-instant",
+            "version_pipeline": "1.1",
+            "fecha_ejecucion": "2025-12-10T07:59:54.246074",
+            "archivo_origen": "CV1.txt"
+        }
+    },
+    {
+        "nombre": "POWELL",
+        "email": "hello@reallygreatsite.com",
+        "telefono": "+123-456-7890",
+        "anios_experiencia": 2,
+        "formacion_ia": "No",
+        "score_cv": 0.8,
+        "confianza": 0.9,
+        "metricas": {
+            "email_detectado": 1,
+            "telefono_detectado": 1,
+            "experiencia_detectada": 1
+        },
+        "metadata": {
+            "modelo_llm": "llama-3.1-8b-instant",
+            "version_pipeline": "1.1",
+            "fecha_ejecucion": "2025-12-10T07:59:54.420121",
+            "archivo_origen": "CV2.txt"
+        }
+    },
+    {
+        "nombre": "Michael Smith",
+        "email": null,
+        "telefono": null,
+        "anios_experiencia": null,
+        "formacion_ia": "Sí",
+        "score_cv": 0.0,
+        "confianza": 0.3,
+        "metricas": {
+            "email_detectado": 0,
+            "telefono_detectado": 0,
+            "experiencia_detectada": 0
+        },
+        "metadata": {
+            "modelo_llm": "llama-3.1-8b-instant",
+            "version_pipeline": "1.1",
+            "fecha_ejecucion": "2025-12-10T07:59:54.649647",
+            "archivo_origen": "CV3.txt"
+        }
+    },
+    {
+        "nombre": "Dyah",
+        "email": "dyahhediyati@gmail.com",
+        "telefono": "+62 8528740423",
+        "anios_experiencia": null,
+        "formacion_ia": "Sí",
+        "score_cv": null,
+        "confianza": null,
+        "metricas": {
+            "email_detectado": 1,
+            "telefono_detectado": 1,
+            "experiencia_detectada": 0
+        },
+        "metadata": {
+            "modelo_llm": "llama-3.1-8b-instant",
+            "version_pipeline": "1.1",
+            "fecha_ejecucion": "2025-12-10T07:59:54.818970",
+            "archivo_origen": "CV4.txt"
+        }
+    },
+    {
+        "nombre": "Dhika Yudantoro",
+        "email": "dhikayudano@gmail.com",
+        "telefono": null,
+        "anios_experiencia": null,
+        "formacion_ia": "No",
+        "score_cv": null,
+        "confianza": null,
+        "metricas": {
+            "email_detectado": 1,
+            "telefono_detectado": 0,
+            "experiencia_detectada": 0
+        },
+        "metadata": {
+            "modelo_llm": "llama-3.1-8b-instant",
+            "version_pipeline": "1.1",
+            "fecha_ejecucion": "2025-12-10T07:59:55.046109",
+            "archivo_origen": "CV5.txt"
+        }
+    },
+    {
+        "nombre": "Alice Clark",
+        "email": null,
+        "telefono": null,
+        "anios_experiencia": null,
+        "formacion_ia": "Sí",
+        "score_cv": 0.0,
+        "confianza": 0.0,
+        "metricas": {
+            "email_detectado": 0,
+            "telefono_detectado": 0,
+            "experiencia_detectada": 0
+        },
+        "metadata": {
+            "modelo_llm": "llama-3.1-8b-instant",
+            "version_pipeline": "1.1",
+            "fecha_ejecucion": "2025-12-10T07:59:55.223835",
+            "archivo_origen": "CV6.txt"
+        }
+    },
+    {
+        "nombre": "Ringgi Cahyo Dwiputra",
+        "email": "ringgicahyo@gmail.com",
+        "telefono": " 0851571150",
+        "anios_experiencia": null,
+        "formacion_ia": "Sí",
+        "score_cv": null,
+        "confianza": null,
+        "metricas": {
+            "email_detectado": 1,
+            "telefono_detectado": 1,
+            "experiencia_detectada": 0
+        },
+        "metadata": {
+            "modelo_llm": "llama-3.1-8b-instant",
+            "version_pipeline": "1.1",
+            "fecha_ejecucion": "2025-12-10T08:00:02.532633",
+            "archivo_origen": "CV7.txt"
+        }
+    },
+    {
+        "nombre": "DR.SANTOSH KAKADE",
+        "email": "drsantoshkakade@gmail.com",
+        "telefono": " 0985067117",
+        "anios_experiencia": 20,
+        "formacion_ia": "Sí",
+        "score_cv": null,
+        "confianza": null,
+        "metricas": {
+            "email_detectado": 1,
+            "telefono_detectado": 1,
+            "experiencia_detectada": 1
+        },
+        "metadata": {
+            "modelo_llm": "llama-3.1-8b-instant",
+            "version_pipeline": "1.1",
+            "fecha_ejecucion": "2025-12-10T08:00:14.828054",
+            "archivo_origen": "CV8.txt"
+        }
+    },
+    {
+        "nombre": "Loren Shevitz",
+        "email": "loren@shevitz.org",
+        "telefono": " 773-665-1234",
+        "anios_experiencia": null,
+        "formacion_ia": "Sí",
+        "score_cv": null,
+        "confianza": null,
+        "metricas": {
+            "email_detectado": 1,
+            "telefono_detectado": 1,
+            "experiencia_detectada": 0
+        },
+        "metadata": {
+            "modelo_llm": "llama-3.1-8b-instant",
+            "version_pipeline": "1.1",
+            "fecha_ejecucion": "2025-12-10T08:00:20.122401",
+            "archivo_origen": "CV9.txt"
+        }
+    }
+]
