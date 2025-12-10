@@ -86,6 +86,9 @@ Incluye metadata para trazabilidad:
 
 El pipeline genera el archivo:
 
+📄 [Ver archivo de resultados](./resultados_cvs.json)
+
+
 ```
 /content/resultados_cvs.json
 ```
