@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karinazulejo/prueba-tecnica-mlops-ia-cvs/blob/main/Pipeline_CV_NLP_LLM_Karen_Tech_Lead.ipynb)
+
 #  Prueba Técnica – Pipeline de Análisis de Hojas de Vida (LLM + MLOps)
 
 Este repositorio contiene un pipeline **modular, trazable y reproducible** para procesar y analizar hojas de vida mediante técnicas de procesamiento determinístico y modelos LLM, siguiendo buenas prácticas de arquitectura y MLOps.
